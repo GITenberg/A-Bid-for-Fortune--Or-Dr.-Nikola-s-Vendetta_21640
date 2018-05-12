@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3587
     wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21640#A-Bid-for-Fortune--Or-Dr.-Nikola-s-Vendetta
 gutenberg_issued: '2007-05-29'
 gutenberg_type: Text
 identifiers:
